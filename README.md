@@ -1,7 +1,7 @@
 # iv-calculator
 
 This is a simple, text-based IV calculator for Pokemon.
-It is designed for generation 3 and above.
+It is designed for generations 3-7.
 
 No installing needed.
 
