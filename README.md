@@ -1,6 +1,7 @@
 # iv-calculator
 
-This is a simple, text-based IV calculator for Pokemon.
+This is a simple, text-based IV calculator for Pokemon, written in C.
+
 It is designed for generations 3-7.
 
 ## How to use:
@@ -14,4 +15,4 @@ It is designed for generations 3-7.
 ## Note:
 - This program is not case-sensitive (e.g. "calm" is the same as "CALM" or "CaLM")
 - Raw EVs should be entered (0-255), not the EVs divided by 4
-- Keep the iv.exe, data and run.bat files in the same folder (iv.c is the source code, it is not needed)
+- Keep the iv.exe, data and run.bat files in the same folder
