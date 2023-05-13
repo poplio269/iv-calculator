@@ -13,5 +13,5 @@ It is designed for generations 3-7.
 
 ## Note:
 - This program is not case-sensitive (e.g. "calm" is the same as "CALM" or "CaLM")
-- Enter the raw EVs (0-255), not the EVs divided by 4
+- Raw EVs should be entered (0-255), not the EVs divided by 4
 - Keep the iv.exe, data and run.bat files in the same folder (iv.c is the source code, it is not needed)
